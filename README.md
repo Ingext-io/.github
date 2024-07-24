@@ -11,6 +11,9 @@ Ingext is designed to be a structured way to ingress data into a datastore, such
 ## Kafka and Kinesis
 Ingext compliments both Kafka and Kinesis. Kafka and Kinesis focus on the channeling and movement of data, something Ingext also does. But Ingext primarily focuses on processing. For example, you parse data outside of Kafka and Kinesis. Ingext performs transformation, enrichment, and analysis inside the data flow. The result is that the data delivery from Ingext is immediately usable by the destination.
 
+## Data Flow
+![Platform Subway Map@2x](https://github.com/user-attachments/assets/f6636b8f-d6ca-42fe-b8f9-9145b75f6485)
+
 ## More Documents
 Further Documentation at: https://ingext.readme.io/
-![image](https://github.com/user-attachments/assets/864c55ec-1b1b-4bde-b819-44882026988f)
+
